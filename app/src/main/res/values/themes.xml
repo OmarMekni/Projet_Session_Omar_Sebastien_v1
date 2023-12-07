@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Projet_Session_Omar_Sebastien_v1" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/orange</item>
+
+
+    </style>
+
+
+    <style name="MyButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@android:color/holo_orange_light</item>
+    </style>
+
+
+</resources>

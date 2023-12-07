@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">@color/design_default_color_on_secondary</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="marron">#FCE4D1</color>
+    <color name="orange">#FF9800</color>
+    <color name="error">#FF0000</color>
+
+</resources>

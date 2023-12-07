@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615828204444",
+    "project_id": "projet-session-omar-sebastien",
+    "storage_bucket": "projet-session-omar-sebastien.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615828204444:android:b1f02adf6a082800a03659",
+        "android_client_info": {
+          "package_name": "com.example.projet_session_omar_sebastien_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxnW22fAjzi2Z3Ccdqrf9bR5USnwM_7ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projet_Session_Omar_Sebastien_v1</string>
+    <string name="home_activity_title">Accueil</string>
+    <string name="paneier_activity_title">Panier</string>
+    <string name="creerCompte_activity_title">Créer un compte</string>
+    <string name="erreur_champs_vide">Tout les champs sont obligatoires</string>
+    <string name="erreur_password_different">Les mots de passe sont différents</string>
+    <string name="enregistrement_reussie">Votre compte a été créer avec succèes</string>
+</resources>
